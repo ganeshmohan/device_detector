@@ -3824,6 +3824,7 @@ Readboy:
 
 # Roku
 Roku:
+  name: 'Roku'
   regex: 'Roku/DVP'
   device: 'tv'
   model: 'Digital Video Player'
