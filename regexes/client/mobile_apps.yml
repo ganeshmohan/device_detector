@@ -140,3 +140,8 @@
   regex: 'i[cC]atcher[^\d]+([\d\.]+)'
   name: 'iCatcher'
   version: '$1'
+-
+  name: 'Roku'
+  regex: 'Roku/DVP'
+  device: 'tv'
+  model: 'Digital Video Player'
